@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+sentence_transformers
+langchain-chroma
+langchain-google-genai
+pypdf
